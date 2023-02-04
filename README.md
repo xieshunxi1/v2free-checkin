@@ -1,9 +1,10 @@
 # V2free签到
 
-我这里默认手动签到，若你想自动签到，请修改https://github.com/xieshunxi1/v2free-checkin/blob/main/.github/workflows/checkin.yml 中的
+我这里默认手动签到，若你想自动签到，请将https://github.com/xieshunxi1/v2free-checkin/blob/main/.github/workflows/checkin.yml 文件中的
+![))SY}OOXOMFVC G(HH4QEWF](https://user-images.githubusercontent.com/111758647/216740934-da225058-168b-4333-b9e4-1f21f782ecc4.png)
+‘#’去掉即可。
 
-
-跟 [v2free_auto_sign](https://github.com/xiangxingxing/v2free_auto_sign)一样，只是以防丢失才重建项目，向xiangxingxing致敬
+注：跟 [v2free_auto_sign](https://github.com/xiangxingxing/v2free_auto_sign)一样，只是以防丢失才重建项目，向xiangxingxing致敬
 
 ### 使用教程
 

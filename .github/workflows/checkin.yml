@@ -14,8 +14,8 @@ on:
   workflow_dispatch:
   watch:
     types: [ started ]
-  schedule:
-    - cron: '7 16 * * *'
+  #schedule:
+    #- cron: '7 16 * * *'
 
 permissions:
   actions: write

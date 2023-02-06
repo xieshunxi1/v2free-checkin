@@ -22,5 +22,5 @@
     ![avatar](https://user-images.githubusercontent.com/62862189/204190337-a0bb90df-efe5-4eec-be94-cc2d06d27408.png)
     
 3.action
-    ![image](https://user-images.githubusercontent.com/111758647/216873601-8cf88d89-752c-42b8-b626-3498d27543f2.png)
+    ![image](https://user-images.githubusercontent.com/111758647/216875106-2667f100-1e10-41ce-b0db-6fb335cafc98.png)
 
